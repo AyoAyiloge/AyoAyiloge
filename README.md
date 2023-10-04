@@ -1,5 +1,5 @@
 Hey everyone, my name is Ayo and I'm an undergraduate student studying statistics. 
-I'm interested in data analytics and finance. Currently, I'm working on building projects and a portfolio where I can showcase my analytics skills. 
+I'm interested in data analytics and marketing. Currently, I'm working on building projects and a portfolio where I can showcase my analytics skills. 
 Currently, I'm learning Python while advancing my skill in R, SQL, Excel, and Tableau.
 
 - 📫 If you would like to reach out to me, you can contact me at ayodeleayiloge@gmail.com or through LinkedIn: www.linkedin.com/in/ayoayiloge
